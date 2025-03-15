@@ -1,0 +1,28 @@
+body,*{
+    direction: rtl;
+}
+
+body h4{
+    text-align: center;
+    font-size: 30px;
+}
+
+#swiperContainer #swiperRaper div{
+    width: 115px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 40px;
+    margin-left: 20px;
+}
+
+#myDIV {
+    height: 250px;
+    width: 250px;
+    overflow: auto;
+  }
+  
+  #content {
+    height: 800px;
+    width: 2000px;
+    background-color: coral;
+  }
